@@ -79,8 +79,8 @@ Após a análise, crie os seguintes diretórios e arquivos:
 tasks/
 ├── README.md                            # Guia do workflow de tasks
 ├── templates/
-│   ├── _task-template.md                # Template para features (10 seções)
-│   └── _task-template-bugfix.md         # Template para bugs (13 seções)
+│   ├── _task-template.md                # Template para features (14 seções)
+│   └── _task-template-bugfix.md         # Template para bugs (19 seções)
 ├── examples/                            # Exemplo de task preenchida
 ├── backlog/
 │   └── README.md
